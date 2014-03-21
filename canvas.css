@@ -1,0 +1,18 @@
+form, #palette
+{
+	display: inline-block;
+	vertical-align: top;
+}
+#palette
+{
+	width: 20px;
+	height: 20px;
+	border: black ridge 1px;
+}
+#canvas_options
+{
+	background: white;
+	width: 200px;
+	height: 100px;
+	position: relative;
+}
